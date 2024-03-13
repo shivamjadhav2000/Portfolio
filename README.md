@@ -32,7 +32,7 @@ To get started with this project, follow these steps:
 
     bash
 
-git clone https://github.com/your-username/your-portfolio.git
+git clone [https://github.com/your-username/your-portfolio.git](https://github.com/shivamjadhav2000/Portfolio)
 
 Navigate to the Project Directory:
 
