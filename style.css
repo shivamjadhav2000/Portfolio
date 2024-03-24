@@ -299,6 +299,9 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   background: linear-gradient(90deg, hsla(0, 100%, 99%, 1) 0%, hsla(0, 0%, 100%, 1) 48%, hsla(72, 56%, 98%, 1) 100%);
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
